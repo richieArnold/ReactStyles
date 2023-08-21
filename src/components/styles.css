@@ -1,0 +1,29 @@
+.outerDiv {
+  color: antiquewhite;
+  background-color: beige;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.innerDiv {
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: rgb(136, 16, 16);
+  border-radius: 10px;
+}
+img {
+  display: block;
+  margin-left: 45%;
+  height: 180px;
+}
+table,
+tr,
+td,
+th {
+  text-align: center;
+  border: 1px solid;
+  padding: 10px;
+  margin-left: 45%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
